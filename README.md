@@ -17,6 +17,8 @@ Founding AI Engineer at [Termina](https://www.termina.ai). I build applied AI fo
 
 The range is wider than that: Swift, Objective-C, Kotlin, and Java on mobile, Go, React, and web3 on Cosmos (IBC) and Ethereum. I've hired and led engineering teams, and I still write the code. PhD in computational chemistry, Concordia. Based in Montréal.
 
+Off the clock I like hardware DIY, modular synthesis, and modifying firmware.
+
 Feel free to reach out.
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tao-nhan-nguyen/)

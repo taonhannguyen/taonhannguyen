@@ -13,10 +13,37 @@
 
 ### 🧑‍💻 About Me
 
-Founding AI Engineer at [Termina](https://www.termina.ai). I like building with Python and TypeScript, from the model through to the product.
+Founding AI Engineer at [Termina](https://www.termina.ai). I build applied AI for quantitative diligence in Python and TypeScript, from the model through to the product.
 
-These days that's applied AI for quantitative diligence. Before that I shipped native apps and ran full-stack teams. PhD, Concordia. Based in Montréal.
+The range is wider than that: Swift and Java for native iOS and Android, React on the web, and web3 on Cosmos (IBC) and Ethereum. PhD, Concordia. Based in Montréal.
 
 Feel free to reach out.
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tao-nhan-nguyen/)
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+#### Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white" alt="Cosmos"/>
+  <img src="https://img.shields.io/badge/IBC-6F4E9B?style=for-the-badge" alt="IBC"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+</p>

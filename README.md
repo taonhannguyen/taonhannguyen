@@ -15,7 +15,7 @@
 
 Founding AI Engineer at [Termina](https://www.termina.ai). I build applied AI for quantitative diligence in Python and TypeScript, from the model through to the product.
 
-The range is wider than that: Swift, Objective-C, Kotlin, and Java on mobile, Go, React, and web3 on Cosmos (IBC) and Ethereum. PhD, Concordia. Based in Montréal.
+The range is wider than that: Swift, Objective-C, Kotlin, and Java on mobile, Go, React, and web3 on Cosmos (IBC) and Ethereum. PhD in computational chemistry, Concordia. Based in Montréal.
 
 Feel free to reach out.
 
